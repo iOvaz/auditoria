@@ -22,6 +22,7 @@
 					<div id="menu">
 						<ul>
 							<li><a href="sesionAdmin.php">Administrador</a></li>
+							<li><a href="planeacion.php">Planeacion de la auditoria</a></li>
 							<!--Aqui debes poner los links para cada tema el efecto se hace automáticamente -->
 						</ul>
 					</div>
